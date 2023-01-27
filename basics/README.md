@@ -1,1 +1,1 @@
-Shell projects repository
+"Shell Starters project" 
